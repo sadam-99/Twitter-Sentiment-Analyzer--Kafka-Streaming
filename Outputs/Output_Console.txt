@@ -1,0 +1,29 @@
+Training_DATA Count: 649989, Validation_DATA Count : 50097, Testing_DATA Count: 300123
+
+RMSE (Validation_DATA) = 0.896197 for the ALS Model trained with parameters RANK_VAL = 4, LAMBDA_VAL = 0.1, and ITER_VAL = 5.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 4 and LAMBDA_VAL -> 0.1, and with Iterations -> 5, the RMSE for the Testing_DATA set is 0.894026.
+RMSE (Validation_DATA) = 0.887078 for the ALS Model trained with parameters RANK_VAL = 4, LAMBDA_VAL = 0.1, and ITER_VAL = 10.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 4 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.884674.
+RMSE (Validation_DATA) = 3.753115 for the ALS Model trained with parameters RANK_VAL = 4, LAMBDA_VAL = 10.0, and ITER_VAL = 5.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 4 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.884674.
+RMSE (Validation_DATA) = 3.753115 for the ALS Model trained with parameters RANK_VAL = 4, LAMBDA_VAL = 10.0, and ITER_VAL = 10.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 4 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.884674.
+RMSE (Validation_DATA) = 0.892035 for the ALS Model trained with parameters RANK_VAL = 8, LAMBDA_VAL = 0.1, and ITER_VAL = 5.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 4 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.884674.
+RMSE (Validation_DATA) = 0.874532 for the ALS Model trained with parameters RANK_VAL = 8, LAMBDA_VAL = 0.1, and ITER_VAL = 10.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 8 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.871993.
+RMSE (Validation_DATA) = 3.753115 for the ALS Model trained with parameters RANK_VAL = 8, LAMBDA_VAL = 10.0, and ITER_VAL = 5.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 8 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.871993.
+RMSE (Validation_DATA) = 3.753115 for the ALS Model trained with parameters RANK_VAL = 8, LAMBDA_VAL = 10.0, and ITER_VAL = 10.
+================================================================================================================================================
+The best Recommendation ALS model has been trained with RANK_VAL -> 8 and LAMBDA_VAL -> 0.1, and with Iterations -> 10, the RMSE for the Testing_DATA set is 0.871993.
+
+
+The Final Accuracy Metric: Root Mean Square Error is:  0.8719925109377131
